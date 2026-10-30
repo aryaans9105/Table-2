@@ -1,0 +1,21 @@
+table {
+    border: 2px solid black;
+    width: 50;
+    border-collapse: separate;
+}
+
+th,td {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: left;
+}
+
+th {
+    background-color: goldenrod;
+}
+
+body {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
